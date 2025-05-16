@@ -46,6 +46,38 @@ declare global {
                                 "module": "lodash.snakecase@4.1.1",
                                 "file": "package.json"
                             }
+                        },
+                        {
+                            "table": "sys_security_acl_role",
+                            "id": "1a904be9836122107f44f45f3cda1e48",
+                            "key": {
+                                "sys_security_acl": "12904be9836122107f44f45f3cda1e45",
+                                "sys_user_role": "3d908ba9836122107f44f45f3cda1e1d"
+                            }
+                        },
+                        {
+                            "table": "sys_security_acl_role",
+                            "id": "46904be9836122107f44f45f3cda1e32",
+                            "key": {
+                                "sys_security_acl": "ce904be9836122107f44f45f3cda1e2d",
+                                "sys_user_role": "3d908ba9836122107f44f45f3cda1e1d"
+                            }
+                        },
+                        {
+                            "table": "sys_security_acl_role",
+                            "id": "86904be9836122107f44f45f3cda1e3a",
+                            "key": {
+                                "sys_security_acl": "8e904be9836122107f44f45f3cda1e36",
+                                "sys_user_role": "3d908ba9836122107f44f45f3cda1e1d"
+                            }
+                        },
+                        {
+                            "table": "sys_security_acl_role",
+                            "id": "c6904be9836122107f44f45f3cda1e41",
+                            "key": {
+                                "sys_security_acl": "ce904be9836122107f44f45f3cda1e3d",
+                                "sys_user_role": "3d908ba9836122107f44f45f3cda1e1d"
+                            }
                         }
                     ];
             }
